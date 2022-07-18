@@ -15,8 +15,9 @@ class App extends Component {
         </Navbar>
         <Menu />
       </div>
-    );
+    ); 
   }
 }
+
 
 export default App;
